@@ -6,7 +6,7 @@ PSARg is an expert advisor written in MQL4 (C)
 
 Just download the file and compile it using meta editor, then run in MT4
 
-#Features
+# Features
 
 PSARg will place buy and sell orders based on the Parabolic SAR indicator, tweaked to eliminate false positives.
 
