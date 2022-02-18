@@ -14,3 +14,5 @@ You can adjust the order it takes based on which candle the price is currently i
 Additionally, it can close the order to secure profits after a certain retracement % from the absolute high of the price
 
 PSARg can be used on any chart symbol, but it is recommended to use it with indexes such as US100 Nasdaq and Dow jones
+
+Uncomment expressions for enabling or disabling features at your preference
